@@ -20,7 +20,7 @@
 
 To install "Factual Moments," follow these steps:
 
-1. Visit the [GitHub repository](#) for the project.
+1. Visit the [https://github.com/Aniketkkajania/FactualMoments](#) for the project.
 
 2. Click on the "Code" button and select "Download ZIP" to download the project files to your computer.
 
