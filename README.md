@@ -20,9 +20,19 @@
 
 To install "Factual Moments," follow these steps:
 
-1. [Download the extension](#) from the Chrome Web Store.
-2. Click on the extension icon in your Chrome toolbar.
-3. Set your preferences and start enjoying a daily dose of knowledge.
+1. Visit the [GitHub repository](#) for the project.
+
+2. Click on the "Code" button and select "Download ZIP" to download the project files to your computer.
+
+3. Extract the downloaded ZIP file to a location of your choice.
+
+4. Open Google Chrome and go to the "Manage Extensions" page. You can access this by clicking on the three vertical dots in the top-right corner, selecting "More tools," and then "Extensions."
+
+5. Enable "Developer mode" at the top-right corner of the "Extensions" page.
+
+6. Click the "Load unpacked" button and select the folder where you extracted the extension files.
+
+7. "Factual Moments" will now be added to your Chrome extensions, and you can start using it.
 
 ## Feedback
 
