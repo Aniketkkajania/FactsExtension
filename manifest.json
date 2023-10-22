@@ -1,0 +1,24 @@
+{
+    "name": "Facts",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "256": "logo.png"
+    },
+    "permissions": [
+        "activeTab",
+        "https://api.api-ninjas.com/",
+        "notifications",
+        "storage"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "content_security_policy": "script-src 'self' 'unsafe-inline' https://api.api-ninjas.com; object-src 'self'"
+
+}
