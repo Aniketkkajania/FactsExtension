@@ -36,7 +36,7 @@ To install "Factual Moments," follow these steps:
 
 ## Feedback
 
-We appreciate your feedback and suggestions. If you encounter any issues or have ideas for improvements, please feel free to [submit an issue](#) on our GitHub repository.
+We appreciate your feedback and suggestions. If you encounter any issues or have ideas for improvements.
 
 ## Contributing
 
